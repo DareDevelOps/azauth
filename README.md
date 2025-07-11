@@ -1,3 +1,6 @@
+# azauth
+python authentication to Azure
+
 # Working in Azure with Python
 
 ## Prerequisites
